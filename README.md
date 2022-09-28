@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://i.postimg.cc/CxyJv60j/download.jpg" alt="WH-MODS-DEV" width="300" />
+<img src="https://telegra.ph/file/a8641df0da430cb23f976.jpg" alt="Yushino Md V2" width="300" />
 
 </p>
-<h1 align="center">WH MODS DEV</h1>
+<h1 align="center">Yushino Md By Aldi</h1>
 
 >
 >
