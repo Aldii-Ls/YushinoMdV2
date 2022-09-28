@@ -25,8 +25,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ https://github.com/ALofc/Yushino-V1
-$ cd Yushino-V1
+$ git clone https://github.com/Hyuura-Official/YushinoMdV2
+$ cd YushinoMdV2
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/Jikarinka/Kannabotv2#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -68,7 +68,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ALofc/Yushino-V1
+git clone https://github.com/Hyuura-Official/YushinoMdV2
 cd Yushino-V1
 npm install
 npm update
@@ -84,8 +84,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/ALofc/Yushino-V1
-cd Yushino-V1
+git https://github.com/Hyuura-Official/YushinoMdV2
+cd YushinoMdV2
 npm install
 npm update
 ```
@@ -111,7 +111,7 @@ node .
 
 
 ## Thanks To
-
+```bash
 𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
 𝐖𝐚 : 081361281833
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
@@ -130,9 +130,11 @@ node .
 ⭝ 𝑱𝒂𝒓𝒐𝒕 𝑶𝒇𝒇𝒄
 ⭝ 𝑯𝒚𝒛𝒆𝒓
 ⭝ 𝑫𝒆𝒇𝒇𝒓𝒊
+⭝ 𝑬𝒍𝒂𝒊𝒏𝒂
 ⭝ 𝑲𝒂𝒏𝒏𝒂𝑪𝒉𝒂𝒏
 ⭝ 𝑪𝒉𝒓𝒊𝒔𝒕𝒊𝒂𝒏 𝑰𝒅
 ⭝ 𝑨𝒊𝒏𝒆
+⭝ 𝑾𝒉 𝑴𝒐𝒅𝒔 𝑫𝒆𝒗
 ⭝ 𝑨𝒓𝒊𝒇𝒇𝒃
 ⭝ 𝑰𝒍𝒎𝒂𝒏
 ⭝ 𝑨𝒎𝒊𝒓𝒖𝒍
@@ -143,3 +145,4 @@ node .
 ⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
 ⭝ 𝑹𝒂𝒎𝒍𝑎𝑛
 ⭝ 𝑮𝒆𝒎𝒑𝒚𝑻𝒐𝒏
+```
