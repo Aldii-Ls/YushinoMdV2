@@ -187,7 +187,7 @@ function wish() {
   }
   if (time >= 12) {
     wishloc = ('Good Afternoon')
-  } 
+  }
   if (time >= 16) {
     wishloc = ('️Good Evening')
   }
